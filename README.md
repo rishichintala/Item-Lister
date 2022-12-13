@@ -1,1 +1,1 @@
-# you can add items,delete item,see items and search items.
+# you can add items,delete item and search items.
